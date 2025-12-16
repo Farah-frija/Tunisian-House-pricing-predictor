@@ -6,7 +6,7 @@ import pandas as pd
 from groq import Groq
 FICHIER_RESULTATS=r"extracted_features_raw_data.json"
 # Initialisation du client Groq
-#client = Groq(api_key="")
+
 attributs = [
         "surface",
         "nombre_des_chambres",
