@@ -1,0 +1,55 @@
+[
+  {
+    "url": "https://www.tayara.tn/item/appartements/ariana/cit-ennasr-2/s2-avec-terrasse-ennaser-2/694133f6cd04d08be74bc064/",
+    "ad_id": "694133f6cd04d08be74bc064",
+    "title": "S+2 avec terrasseà Ennaser 2 ",
+    "description": "Cet appartement occupe le septième étage d’une résidence gardée et sécurisée.\nLe hall d’entrée donne sur un salon lumineux, bénéficiant d’ ouvrant sur une terrasse avec une vue dégagée.\n\nLa cuisine, entièrement aménagée et équipée (plaque chauffante, hotte aspirante, four électrique), s’ouvre sur un séchoir exploitable.\nUne salle d’eau est également disponible pour les invités.\n\nLa partie nuit comprend deux chambres, toutes deux équipées de dressings, dont une avec balcon, ainsi qu’une salle de bain commune.\n\nL’appartement dispose du chauffage central et de la climatisation par split système.\nUne place de parking au sous-sol est mise à disposition.",
+    "price": 1600,
+    "currency": "TND",
+    "category": "immobilier",
+    "published_date": "2025-12-17T10:28:54.000Z",
+    "phone": "+21621122100",
+    "additional_phones": [],
+    "image_count": 8,
+    "images": [
+      "https://cdn.tayara.tn/de/deda514d-f41f-4825-ae9f-b0ccbf628d6f",
+      "https://cdn.tayara.tn/85/8526efe4-282e-4bbb-aaf4-e6b388998e10",
+      "https://cdn.tayara.tn/74/7485f769-024a-427a-b2bb-ee3d4be4583f",
+      "https://cdn.tayara.tn/97/97317fde-dc41-4b66-9d74-48e07be9321b",
+      "https://cdn.tayara.tn/ef/efcf1ec7-4803-4616-947c-792086a92148",
+      "https://cdn.tayara.tn/5c/5c05b79a-d01f-4e4b-93ac-a820dc810df9",
+      "https://cdn.tayara.tn/be/becb75ad-8772-469b-952b-59b215bd6f69",
+      "https://cdn.tayara.tn/a6/a61e0489-3e2c-4ff0-b80b-91ce3b338bcd"
+    ],
+    "location": {
+      "coordinates": {},
+      "delegation": "Cité Ennasr 2",
+      "governorate": "Ariana"
+    },
+    "seller_name": "Tecnocasa  Ennasr 3 ",
+    "seller_email": "Contact.e3@tecnocasa.tn",
+    "seller_phone": "+21621122100",
+    "seller_is_shop": true,
+    "ad_params": [
+      {
+        "label": "Type de transaction",
+        "value": "À Louer"
+      },
+      {
+        "label": "Superficie",
+        "value": "136"
+      },
+      {
+        "label": "Salles de bains",
+        "value": "2"
+      },
+      {
+        "label": "Chambres",
+        "value": "-1"
+      }
+    ],
+    "sold": false,
+    "views": 0,
+    "favorites": 0
+  }
+]

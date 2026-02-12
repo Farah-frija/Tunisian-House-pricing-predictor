@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Core/features_eng.module/tayara.tn"
+    ]
+}
