@@ -27,7 +27,7 @@ This project predicts **house selling prices in Greater Tunis** using a **machin
 
 ## Dataset
 
-- ~400 properties  
+- ~3710 instances  
 - Sources: Tecnocasa, Mubawab, Tayara  
 - Structured attributes + free-text descriptions  
 
