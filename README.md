@@ -17,7 +17,7 @@ This project predicts **house selling prices in Greater Tunis** using a **machin
 
 ## Objectives
 
-- Unify real estate data from multiple platforms  
+- Unify real estate scraped data from multiple platforms  
 - Clean and enrich incomplete listings  
 - Engineer spatial features  
 - Compare regression models  
@@ -27,9 +27,9 @@ This project predicts **house selling prices in Greater Tunis** using a **machin
 
 ## Dataset
 
-- ~3710 instances  
+- ~3710 instances scraped from real estate platforms  
 - Sources: Tecnocasa, Mubawab, Tayara  
-- Structured attributes + free-text descriptions  
+- Structured attributes + free-text descriptions
 
 ### Target
 - `prix` (selling price in TND)
