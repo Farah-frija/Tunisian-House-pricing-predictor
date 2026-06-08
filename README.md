@@ -116,14 +116,6 @@ An interactive interface was built using **Streamlit**, allowing users to:
 
 ---
 
-## Limitations
-
-- Limited dataset size  
-- Approximate geolocation for some listings  
-- Possible semantic noise from LLM-based extraction  
-
----
-
 ## Future Improvements
 
 - Add transport and socio-economic features  
