@@ -42,7 +42,13 @@ This project predicts **house selling prices in Greater Tunis** using a **machin
 - Duplicate removal  
 - Type normalization  
 - Outlier handling  
-- Basic missing value treatment  
+- Basic missing value treatment
+
+| With outliers | Without outliers |
+|:---:|:---:|
+| ![With outliers](with_outliers.png) | ![Without outliers](without_outliers.png) |
+
+*Figures showing data distribution before and after outliers removal.*
 
 ### LLM-Assisted Enrichment
 
@@ -74,7 +80,6 @@ We used the **Groq API (`chatgpt-oss-120`)** to:
 ---
 
 ## Modeling
-
 - **Type:** Supervised learning  
 - **Task:** Regression  
 
@@ -85,9 +90,8 @@ Models evaluated:
 - **CatBoost Regressor**
 
 ### Best Model: CatBoost
-
 - **R²:** 0.83  
-- **MSE:** 0.088  
+- **MSE:** 0.088
 
 ---
 
@@ -100,21 +104,15 @@ Models evaluated:
 ---
 
 ## Interface & Visualization
-
 An interactive interface was built using **Streamlit**, allowing users to:
-
 - Input property characteristics
 - Get instant price predictions
 - Explore feature influence on prices
 
----
-
-## Deployment
-
-- Trained model integrated into the Streamlit app  
-- Ready for extension as a REST API or production service  
+![Streamlit interface](streamlit.png)
 
 ---
+
 
 ## Future Improvements
 
