@@ -93,7 +93,7 @@ Models evaluated:
 
 ## Pipeline Overview
 
-![ML + LLM Pipeline](images/pipeline.png)
+![ML + LLM Pipeline](ml.jpg)
 
 *End-to-end pipeline from data collection to Streamlit deployment.*
 
